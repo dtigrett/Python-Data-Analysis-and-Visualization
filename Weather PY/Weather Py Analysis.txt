@@ -1,0 +1,21 @@
+Weather Py Analysis
+
+From the analysis, the following conclusions can be drawn:
+
+Temperature seems to have a clear correlation with latitude
+
+Temperature increases as we approach the equator. 
+However, temperature peaks at around 20 degrees latitude, not exactly at the equatorial line.
+ 
+There is no strong relationship between latitude and cloudiness. 
+Cloudiness and humidity do not show a strong correlation to latitude. 
+
+
+
+There is no strong relationship between latitude and wind speed. 
+
+
+
+
+
+
