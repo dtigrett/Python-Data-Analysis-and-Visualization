@@ -2,17 +2,30 @@ Weather Py Analysis
 
 From the analysis, the following conclusions can be drawn:
 
-Temperature seems to have a clear correlation with latitude
+Temperature seems to have a clear correlation with latitude.
+In the Northern Hemisphere temperature versus latitude has an r value of -0.83 
+indicating there is a high positive (negative) correlation.
+
+In the Southern Hemisphere temperature versus latitude has an r value of 0.75
+indicating there is a high positive correlation.
 
 Temperature increases as we approach the equator. 
-However, temperature peaks at around 20 degrees latitude, not exactly at the equatorial line.
- 
+
+Humidity does not show a strong correlation to latitude.
+In the northern hemisphere there is an r value of 0.22 and in the
+southern hemisphere there is an r value of -0.03 indicating there 
+is neglibile or no correlation.
+
+
 There is no strong relationship between latitude and cloudiness. 
-Cloudiness and humidity do not show a strong correlation to latitude. 
+In the northern hemisphere there is an r value of 0.1 and in the 
+southern hemisphere there is an r value of 0.02 indicating there is
+no correlation.
 
 
-
-There is no strong relationship between latitude and wind speed. 
+There is no strong relationship between latitude and wind speed. In the northern 
+hemisphere the r value is 0.02 and in the southern hemisphere the
+r value is -0.11 indicating there is no correlation.
 
 
 
