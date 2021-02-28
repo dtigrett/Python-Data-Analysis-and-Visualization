@@ -10,7 +10,7 @@ In the Northern Hemisphere temperature versus latitude has
 an r value of -0.83 indicating there is a high 
 (negative) positive correlation.
 
-![](WeatherPy/images/lat_vs_max_temp.png)
+![](Weather Py/images/lat_vs_max_temp.png)
 
 In the Southern Hemisphere temperature versus latitude has
 an r value of 0.72
