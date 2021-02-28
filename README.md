@@ -35,7 +35,6 @@ correlation.
 
 
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.almanac.com%2Fsites%2Fdefault%2Ffiles%2Fimage_nodes%2Frainbow-weather.jpg&imgrefurl=https%3A%2F%2Fwww.almanac.com%2Fweather%2Fhistory&tbnid=7D0QUI6tCit56M&vet=12ahUKEwj14cXrzYvvAhXCi60KHSN6AQYQMygAegUIARDXAQ..i&docid=Jh0QyDTotxC0LM&w=1920&h=1280&q=weather%20picture&hl=en&ved=2ahUKEwj14cXrzYvvAhXCi60KHSN6AQYQMygAegUIARDXAQ
 
 
 
