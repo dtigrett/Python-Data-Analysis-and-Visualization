@@ -1,6 +1,6 @@
 # What is the weather like?
 
-"What's the weather like as we approach the equator?" Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator
+"What's the weather like as we approach the equator?" Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator
 using the CityPy Python Library, and the OpenWeatherMap API.
 
 ![](images/download.jpg)
